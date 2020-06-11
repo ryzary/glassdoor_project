@@ -1,4 +1,4 @@
 # Business Analyst Salary Prediction
 
 ## References
-https://github.com/arapfaik/scraping-glassdoor-selenium
+Glassdoor scrapper: https://github.com/arapfaik/scraping-glassdoor-selenium
