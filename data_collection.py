@@ -12,7 +12,7 @@ import pandas as pd
 
 path = '/Users/ryzary/Desktop/projects/glassdoor/chromedriver'
 
-df = gs.get_jobs('Business Analyst',1000,False,path,2)
+df = gs.get_jobs('Software Engineer',1000,False,path,2)
 
 
-df.to_csv('glassdoor_jobs.csv',index=False)
+df.to_csv('software_engineer.csv',index=False)
