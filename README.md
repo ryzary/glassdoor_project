@@ -1,4 +1,4 @@
-## Software Engineer Salary Prediction
+# Software Engineer Salary Prediction
 
 ### Overview
 - Created a model to help Software Engineers estimate their expected salary
