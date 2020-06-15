@@ -47,6 +47,7 @@ Scrapped 1000 job psotings from glassdoor and obtianed the following:
 
 ## EDA
 Few Highlight:
+![alt text](https://github.com/ryzary/glassdoor_project/blob/master/seniority.png)
 
 
 ## Model
