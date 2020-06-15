@@ -46,7 +46,12 @@ Scrapped 1000 job psotings from glassdoor and obtianed the following:
 ## EDA
 Few Highlight:
 
+
 ## Model
 I transformed the categorical variables into dummy variables and split them into train and test sets (80%&20%).
 
+I chose Lasso and Random Forest Regression for the prediction, implemented using scikit-learn with MAE as the evaluation score. I utilized GridSearchCV to find the best estimators.
 
+## Performance (MAE)
+- Lasso Regression: -17.757
+- Random Forrest: -18.049
