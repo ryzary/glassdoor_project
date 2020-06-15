@@ -6,17 +6,17 @@
 - Cleaned the data and engineered new features to identify how skills and seniority level affect salary
 - Utilized and optimized Lasso and Random Forest Regressor using GridsearchCV
 
-This project is based on a tutorial by Ken Jee:
 
-https://www.youtube.com/watch?v=MpF9HENQjDo&t=1s
 
 ## Code and Resources
 __Python version__: 3.7
 <br>
 __Packages__: pandas, numpy, sklearn, matplotlib, seaborn, selenium
 <br>
+This project is based on a tutorial by Ken Jee: https://www.youtube.com/watch?v=MpF9HENQjDo&t=1s
+<br>
 __Scrapper__: https://github.com/arapfaik/scraping-glassdoor-selenium
-
+<br>
 
 ## Web Scrapping
 Scrapped 1000 job psotings from glassdoor and obtianed the following:
