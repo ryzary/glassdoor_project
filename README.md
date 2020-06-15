@@ -7,8 +7,9 @@
 - Utilized and optimized Lasso and Random Forest Regressor using GridsearchCV
 <br>
 This project is based on a tutorial by Ken Jee:
+<br>
 https://www.youtube.com/watch?v=MpF9HENQjDo&t=1s
-<br?
+<br>
 ## Code and Resources
 __Python version__: 3.7
 __Packages__: pandas, numpy, sklearn, matplotlib, seaborn, selenium
