@@ -44,6 +44,9 @@ Scrapped 1000 job psotings from glassdoor and obtianed the following:
 
 
 ## EDA
+Few Highlight:
 
+## Model
+I transformed the categorical variables into dummy variables and split them into train and test sets (80%&20%).
 
 
