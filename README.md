@@ -1,4 +1,5 @@
-# Software Engineer Salary Prediction
+## Software Engineer Salary Prediction
+
 ### Overview
 - Created a model to help Software Engineers estimate their expected salary
 - Web scrapped over 1000 job descriptions from glassdoor using Selenium
