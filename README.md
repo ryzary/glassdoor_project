@@ -47,7 +47,12 @@ Scrapped 1000 job psotings from glassdoor and obtianed the following:
 
 ## EDA
 Few Highlight:
+<br>
 ![alt text](https://github.com/ryzary/glassdoor_project/blob/master/seniority.png)
+<br>
+![alt text](https://github.com/ryzary/glassdoor_project/blob/master/sector.png)
+<br>
+![alt text](https://github.com/ryzary/glassdoor_project/blob/master/state.png)
 
 
 ## Model
