@@ -61,5 +61,5 @@ I transformed the categorical variables into dummy variables and split them into
 I chose Lasso and Random Forest Regression for the prediction, implemented using scikit-learn with MAE as the evaluation score. I utilized GridSearchCV to find the best estimators.
 
 ## Performance (MAE)
-- Lasso Regression: -17.757
-- Random Forrest: -18.049
+- Lasso Regression: 17.757
+- Random Forrest: 18.049
