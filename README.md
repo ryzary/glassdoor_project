@@ -30,13 +30,17 @@ Scrapped 1000 job psotings from glassdoor and obtianed the following:
 - Sector
 - Revenue
 - Competitors
-
+<br>
 ## Data Cleaning and Feature Engineering
 - Parsed salary range and calculated its average (numeric) out of Salary Estimate 
 - Removed rows without salary
-- Extracted companies' state (USA) from Location
-
-
+- Extracted companies' state (US) from Location
+- Made a new column for the age of companies
+- Extracted different skills from job description and put them on new columns. These include _java, C++, python, PHP, SQL, html, CSS, javascript_
+- Extracted seniority category from job titles
+<br>
+## EDA
+H
 
 
 
