@@ -40,7 +40,6 @@ Scrapped 1000 job psotings from glassdoor and obtianed the following:
 - Extracted seniority category from job titles
 <br>
 ## EDA
-H
 
 
 
