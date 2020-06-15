@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=MpF9HENQjDo&t=1s
 ## Code and Resources
 __Python version__: 3.7
 __Packages__: pandas, numpy, sklearn, matplotlib, seaborn, selenium
+<br>
 __Scrapper__: https://github.com/arapfaik/scraping-glassdoor-selenium
 
 
